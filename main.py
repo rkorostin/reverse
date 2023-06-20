@@ -6,6 +6,7 @@ class Node:
         self.data = data
         self.next = None
 
+
 # head - ссылка на первый узел списка
 class LinkedList:
     def __init__(self):
